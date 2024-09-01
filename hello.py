@@ -1,3 +1,3 @@
 print("Hello GitHub")
 
-print("Hello world")
+print("Hello world!")
